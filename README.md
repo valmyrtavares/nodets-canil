@@ -25,3 +25,6 @@ npm install
 ## para rodar npm run start-dev
 
 Aqui encerra a primeira aula
+
+Trazido css e images
+Configurado o .env e o server.ts e fim da terceira aula
