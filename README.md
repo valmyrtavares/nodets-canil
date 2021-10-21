@@ -40,3 +40,5 @@ do link do partils no page e a forma certa de usar o mustache e o mais important
 html e dar reload. Ele não faz nada, tem que dar reload em uma ts, ai sim ele atualiza
 Fiquei um pouco em dúvida com relação ao endereço raiz, que em php é tão cuidado e da tantos problemas 
 aqui não párece até agora que é um problema
+
+Nesse commit já estamos a partir de uma mesma página consumindo o conteúdo da pasta de imagens, tudo muito tranquilo
