@@ -28,3 +28,7 @@ Aqui encerra a primeira aula
 
 Trazido css e images
 Configurado o .env e o server.ts e fim da terceira aula
+Tomei um erro fácil mas que ficou caro. Acabei fazendo o curso de typescript inteiro, que foi bom
+e revi o início do curso se node, claro que o erro não tinha nada a ver com isso, eu só tinha escrito
+umas porcarias dentro do sript do package.json e por isso não estava rodando. E muitas coisa não rodou 
+em node da última vez, então eu acho que trauma me fez ir longe. Velau. Tudo funcionado
