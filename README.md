@@ -42,3 +42,7 @@ Fiquei um pouco em dúvida com relação ao endereço raiz, que em php é tão c
 aqui não párece até agora que é um problema
 
 Nesse commit já estamos a partir de uma mesma página consumindo o conteúdo da pasta de imagens, tudo muito tranquilo
+
+Nesse commit usamos pela primeira vez o typescript tipando um objeto pet e justificando o uso do typescript finalmente.
+Os animais que não vão ser entregues atravéz de um banco de dados formaram um grande array que tem tipo Pet[] e isso garante
+a integridade do objeto, acho que a ideia de interface agora faz muito mais sentidoEssa foi a aula 8
