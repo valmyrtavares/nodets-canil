@@ -33,4 +33,10 @@ e revi o início do curso se node, claro que o erro não tinha nada a ver com is
 umas porcarias dentro do sript do package.json e por isso não estava rodando. E muitas coisa não rodou 
 em node da última vez, então eu acho que trauma me fez ir longe. Velau. Tudo funcionado
 
+Foi feita as rotas e o server e dois controllers
 
+Agora fizemso a pasta de view com pages e partials, lincamos o css e as imagens. Um pequenino perrengue, por causa
+do link do partils no page e a forma certa de usar o mustache e o mais importante não adianta modificar o 
+html e dar reload. Ele não faz nada, tem que dar reload em uma ts, ai sim ele atualiza
+Fiquei um pouco em dúvida com relação ao endereço raiz, que em php é tão cuidado e da tantos problemas 
+aqui não párece até agora que é um problema
