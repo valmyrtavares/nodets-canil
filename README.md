@@ -48,6 +48,11 @@ Os animais que não vão ser entregues atravéz de um banco de dados formaram um
 a integridade do objeto, acho que a ideia de interface agora faz muito mais sentidoEssa foi a aula 8
 
 E aqui encerramos a contrução de um model sem uso de banco de dados e pela primeira vez tenho uma aula sem o DB e sem peso, porque 
-seu fazer com e é bom também saber fazer sem. O uso dos métodos de array me deixaram um pouco confuso mas com o uso eu acho que 
+também é bom também saber fazer sem. O uso dos métodos de array me deixaram um pouco confuso mas com o uso eu acho que 
 a coisa vai ficar mais clara. Principalmente pra por em prática subir o projeto que é um gap muito maior do que o uso de 
 DB
+
+Sem querer eu pulei uma aula onde o Boniek controi um helper que é uma função muito interessante que seleciona o tipo de animal
+É uma função tipada que usa os poderes do typesript que deve ser mauseada. Eu acho que chegou a hora de refazer esse projeto muitas
+vezes para que de fato os conceitos entrem na cabeça. E depois foi alterado na view e no controller para que recebam na tela os 
+animais por seus tipos e todos. Falta agora somente fazer individual. Mas esse é um projeto inchuto e interessante
